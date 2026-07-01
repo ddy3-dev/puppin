@@ -22,4 +22,6 @@ Altogether, that's "PostgreSQL-powered universal PHP platform in nginx" 🐶
 ## Legal
 Puppin is licensed under the MIT license, a permissive software license. For more information, please see the `LICENSE` file.
 
+XAMPP is a registered trademark of BitRock.
+
 Avalonia is a registered trademark of AvaloniaUI OÜ.
